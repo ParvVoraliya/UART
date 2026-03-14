@@ -79,10 +79,10 @@ The UART transmitter is implemented using a **Finite State Machine (FSM)** with 
 ---
 
 ## Simulation
-
-RTL simulation can be performed in **ModelSim** to verify the UART output waveform.  
-The `tx` signal should match the expected waveform (`tx_exp`) provided in the simulation environment.
+during tx
 ![Simulation Waveform](sim.png)
+during rx
+![Simulation Waveform](sim1.png)
 ---
 
 ## Applications
