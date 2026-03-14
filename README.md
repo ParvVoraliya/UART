@@ -80,9 +80,9 @@ The UART transmitter is implemented using a **Finite State Machine (FSM)** with 
 
 ## Simulation
 during tx
-![Simulation Waveform](sim.png)
+![Simulation Waveform](sim_tx.png)
 during rx
-![Simulation Waveform](sim1.png)
+![Simulation Waveform](sim_rx.png)
 ---
 
 ## Applications
